@@ -1,4 +1,5 @@
 # MongoDB E-Commerce Analytics Pipeline
+<img width="1655" height="866" alt="image" src="https://github.com/user-attachments/assets/21de7c25-a0a5-4675-8a2a-33f938512697" />
 
 > **End-to-end data analytics project** — NoSQL ingestion → aggregation pipelines → ETL → Tableau dashboard
 
